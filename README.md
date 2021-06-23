@@ -7,17 +7,6 @@
 <p align="center">
   A minimal dark theme for <a href="https://halcyon-theme.netlify.com/">VS Code, Atom, Sublime Text, and more</a>.
 </p>
-<p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
-    <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/brittanychiang.halcyon-vscode.svg" />
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
-    <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/downloads/brittanychiang.halcyon-vscode.svg" />
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
-    <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs/brittanychiang.halcyon-vscode.svg" />
-  </a>
-</p>
 
 ![demo](https://github.com/ChubsB/KomoRebi-Dark/blob/master/images/Demo.png)
 
