@@ -1,14 +1,14 @@
 <p align="center">
-  <img alt="KomoRebi Dark Logo" src="https://github.com/ChubsB/KomoRebi-Dark/blob/master/images/logo.png" width="500" />
+  <img alt="KomoRebi Dark Logo" src="https://raw.githubusercontent.com/ChubsB/KomoRebi-Dark/master/images/logo.png" width="500" />
 </p>
 <h1 align="center">
   KomoRebi Dark Theme for VS Code
 </h1>
 <p align="center">
-  A minimal dark theme for <a href="https://halcyon-theme.netlify.com/">VS Code, Atom, Sublime Text, and more</a>.
+  A minimal dark theme for VS Code, Atom, Sublime Text, and more.
 </p>
 
-![demo](https://github.com/ChubsB/KomoRebi-Dark/blob/master/images/Demo.png)
+![demo](https://raw.githubusercontent.com/ChubsB/KomoRebi-Dark/master/images/Demo.png)
 
 ## Installation via VS Code
 
