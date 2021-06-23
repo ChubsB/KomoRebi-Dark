@@ -3,6 +3,19 @@
     "displayName": "KomoRebi Dark",
     "description": "A minimal dark theme for VS Code, Atom, Sublime Text and more!",
     "version": "0.0.1",
+    "publisher": "HussainImam",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ChubsB/KomoRebi-Dark"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "Halcyon",
+        "Kom",
+        "komorebi",
+        "komorebi dark"
+    ],
     "engines": {
         "vscode": "^1.57.0"
     },
