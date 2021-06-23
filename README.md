@@ -5,7 +5,7 @@
   KomoRebi Dark Theme for VS Code
 </h1>
 <p align="center">
-  A minimal dark theme for VS Code thats Heavily inspired by the <a href="https://github.com/bchiang7/halcyon-vscode">Halcyon Theme</a>
+  A minimal dark theme for VS Code thats inspired by the <a href="https://github.com/bchiang7/halcyon-vscode">Halcyon Theme</a>
 </p>
 
 ![demo](https://raw.githubusercontent.com/ChubsB/KomoRebi-Dark/master/images/Demo.png)
