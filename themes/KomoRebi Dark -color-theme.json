@@ -628,7 +628,7 @@
 		"name": "Attributes",
 		"scope": ["entity.other.attribute-name"],
 		"settings": {
-		  "foreground": "#222C38"
+		  "foreground": "#FFD564"
 		}
 	  },
 	  {
@@ -638,21 +638,21 @@
 		  "text.html.basic entity.other.attribute-name"
 		],
 		"settings": {
-		  "foreground": "#222C38"
+		  "foreground": "#FFD564"
 		}
 	  },
 	  {
 		"name": "CSS Classes",
 		"scope": ["entity.other.attribute-name.class", "punctuation.definition.entity.css"],
 		"settings": {
-		  "foreground": "#222C38"
+		  "foreground": "#FFD564"
 		}
 	  },
 	  {
 		"name": "CSS ID's",
 		"scope": ["source.sass keyword.control"],
 		"settings": {
-		  "foreground": "#5ccfe6"
+		  "foreground": "#FFD564"
 		}
 	  },
 	  {
@@ -965,7 +965,7 @@
 	  {
 		"scope": "punctuation.other.period.go",
 		"settings": {
-		  "foreground": "#222C38"
+		  "foreground": "#FFD564"
 		}
 	  }
 	]
