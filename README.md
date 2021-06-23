@@ -5,7 +5,7 @@
   KomoRebi Dark Theme for VS Code
 </h1>
 <p align="center">
-  A minimal dark theme for VS Code, Atom, Sublime Text, and more.
+  A minimal dark theme for VS Code thats Heavily inspired by the <a href="https://github.com/bchiang7/halcyon-vscode">Halcyon Theme</a>
 </p>
 
 ![demo](https://raw.githubusercontent.com/ChubsB/KomoRebi-Dark/master/images/Demo.png)
@@ -68,12 +68,7 @@ The file icon theme seen in the screenshot above is [Material Icon Theme](https:
 
 [VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
 
-Heavily inspired by [Halcyon Theme](https://github.com/bchiang7/halcyon-vscode)
-
 ```bash
 vsce publish patch/minor/major
 ```
 
-## Dont use VS Code?
-
-KomoRebi Dark is also available for [Sublime Text, Atom, iTerm, and more!](https://halcyon-theme.netlify.com/).
