@@ -28,7 +28,7 @@ Read the [VSC Extension Quickstart Guide](https://github.com/ChubsB/KomoRebi-Dar
 
 |                               Color                                | Usage                                           |
 | :----------------------------------------------------------------: | ----------------------------------------------- |
-| ![#C286FF](https://via.placeholder.com/10/c3a6ff?text=+) `#c3a6ff` | Keywords, constants, template literals          |
+| ![#C286FF](https://via.placeholder.com/10/c3a6ff?text=+) `#C286FF` | Keywords, constants, template literals          |
 | ![#FFD564](https://via.placeholder.com/10/ffd580?text=+) `#ffd580` | Functions, classes, object literal keys         |
 | ![#D99623](https://via.placeholder.com/10/ffae57?text=+) `#ffae57` | Constants, operators                            |
 | ![#BDE86B](https://via.placeholder.com/10/bae67e?text=+) `#bae67e` | Strings, markdown headings                      |
@@ -39,14 +39,14 @@ Read the [VSC Extension Quickstart Guide](https://github.com/ChubsB/KomoRebi-Dar
 
 |                               Color                                | Usage                                      |
 | :----------------------------------------------------------------: | ------------------------------------------ |
-| ![#10141A](https://via.placeholder.com/10/171c28?text=+) `#171c28` | Workbench background                       |
-| ![#171e26](https://via.placeholder.com/10/1d2433?text=+) `#1d2433` | Editor background                          |
-| ![#222C38](https://via.placeholder.com/10/2f3b54?text=+) `#2f3b54` | Highlight, widgets, panels                 |
-| ![#65799C](https://via.placeholder.com/10/6679a4?text=+) `#6679a4` | Dividers, subtle UI elements               |
-| ![#65799C](https://via.placeholder.com/10/8695b7?text=+) `#8695b7` | Status bar text, buttons, etc              |
+| ![#10141A](https://via.placeholder.com/10/171c28?text=+) `#10141A` | Workbench background                       |
+| ![#171e26](https://via.placeholder.com/10/1d2433?text=+) `#171e26` | Editor background                          |
+| ![#222C38](https://via.placeholder.com/10/2f3b54?text=+) `#222C38` | Highlight, widgets, panels                 |
+| ![#65799C](https://via.placeholder.com/10/6679a4?text=+) `#65799C` | Dividers, subtle UI elements               |
+| ![#65799C](https://via.placeholder.com/10/8695b7?text=+) `#65799C` | Status bar text, buttons, etc              |
 | ![#d7dce2](https://via.placeholder.com/10/d7dce2?text=+) `#d7dce2` | Active text, anything that should be white |
-| ![#EDBE47](https://via.placeholder.com/10/ffcc66?text=+) `#ffcc66` | Accent, list tree titles, badges, etc      |
-| ![#BDE86B](https://via.placeholder.com/10/bae67e?text=+) `#bae67e` | Addition highlights                        |
+| ![#C9BB34](https://via.placeholder.com/10/ffcc66?text=+) `#C9BB34` | Accent, list tree titles, badges, etc      |
+| ![#FFD564](https://via.placeholder.com/10/bae67e?text=+) `#FFD564` | Addition highlights                        |
 | ![#E85D72](https://via.placeholder.com/10/ef6b73?text=+) `#ef6b73` | Deletion highlights, errors, warnings      |
 | ![#5ccfe6](https://via.placeholder.com/10/5ccfe6?text=+) `#5ccfe6` | Modified highlights                        |
 
