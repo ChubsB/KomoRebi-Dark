@@ -29,9 +29,9 @@ Read the [VSC Extension Quickstart Guide](https://github.com/ChubsB/KomoRebi-Dar
 |                               Color                                | Usage                                           |
 | :----------------------------------------------------------------: | ----------------------------------------------- |
 | ![#C286FF](https://via.placeholder.com/10/c3a6ff?text=+) `#C286FF` | Keywords, constants, template literals          |
-| ![#FFD564](https://via.placeholder.com/10/ffd580?text=+) `#ffd580` | Functions, classes, object literal keys         |
+| ![#FFD564](https://via.placeholder.com/10/ffd580?text=+) `#FFD564` | Functions, classes, object literal keys         |
 | ![#D99623](https://via.placeholder.com/10/ffae57?text=+) `#ffae57` | Constants, operators                            |
-| ![#BDE86B](https://via.placeholder.com/10/bae67e?text=+) `#bae67e` | Strings, markdown headings                      |
+| ![#C9BB34](https://via.placeholder.com/10/bae67e?text=+) `#C9BB34` | Strings, markdown headings                      |
 | ![#67d8e0](https://via.placeholder.com/10/5ccfe6?text=+) `#67d8e0` | Special keywords, classes, markdown code blocks |
 | ![#a2aabc](https://via.placeholder.com/10/a2aabc?text=+) `#a2aabc` | Variables, property names, tags                 |
 
