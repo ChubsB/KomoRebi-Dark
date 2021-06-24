@@ -22,34 +22,6 @@
 
 Read the [VSC Extension Quickstart Guide](https://github.com/ChubsB/KomoRebi-Dark/blob/master/vsc-extension-quickstart.md)
 
-## Color Reference
-
-### Syntax Colors
-
-|                               Color                                | Usage                                           |
-| :----------------------------------------------------------------: | ----------------------------------------------- |
-| ![#C286FF](https://via.placeholder.com/10/c3a6ff?text=+) `#C286FF` | Keywords, constants, template literals          |
-| ![#FFD564](https://via.placeholder.com/10/ffd580?text=+) `#FFD564` | Functions, classes, object literal keys         |
-| ![#C286FF](https://via.placeholder.com/10/ffae57?text=+) `#C286FF` | Constants, operators                            |
-| ![#A9C724](https://via.placeholder.com/10/bae67e?text=+) `#A9C724` | Strings, markdown headings                      |
-| ![#FFD564](https://via.placeholder.com/10/5ccfe6?text=+) `#FFD564` | Special keywords, classes, markdown code blocks |
-| ![#a2aabc](https://via.placeholder.com/10/a2aabc?text=+) `#a2aabc` | Variables, property names, tags                 |
-
-### UI Colors
-
-|                               Color                                | Usage                                      |
-| :----------------------------------------------------------------: | ------------------------------------------ |
-| ![#10141A](https://via.placeholder.com/10/171c28?text=+) `#10141A` | Workbench background                       |
-| ![#171e26](https://via.placeholder.com/10/1d2433?text=+) `#171e26` | Editor background                          |
-| ![#222C38](https://via.placeholder.com/10/2f3b54?text=+) `#222C38` | Highlight, widgets, panels                 |
-| ![#65799C](https://via.placeholder.com/10/6679a4?text=+) `#65799C` | Dividers, subtle UI elements               |
-| ![#65799C](https://via.placeholder.com/10/8695b7?text=+) `#65799C` | Status bar text, buttons, etc              |
-| ![#d7dce2](https://via.placeholder.com/10/d7dce2?text=+) `#d7dce2` | Active text, anything that should be white |
-| ![#C9BB34](https://via.placeholder.com/10/ffcc66?text=+) `#C9BB34` | Accent, list tree titles, badges, etc      |
-| ![#A9C724](https://via.placeholder.com/10/bae67e?text=+) `#A9C724` | Addition highlights                        |
-| ![#E85D72](https://via.placeholder.com/10/ef6b73?text=+) `#E85D72` | Deletion highlights, errors, warnings      |
-| ![#67d8e0](https://via.placeholder.com/10/5ccfe6?text=+) `#67d8e0` | Modified highlights                        |
-
 ## Theming Reference
 
 [VS Code Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
