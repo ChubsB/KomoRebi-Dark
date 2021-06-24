@@ -47,8 +47,8 @@ Read the [VSC Extension Quickstart Guide](https://github.com/ChubsB/KomoRebi-Dar
 | ![#d7dce2](https://via.placeholder.com/10/d7dce2?text=+) `#d7dce2` | Active text, anything that should be white |
 | ![#C9BB34](https://via.placeholder.com/10/ffcc66?text=+) `#C9BB34` | Accent, list tree titles, badges, etc      |
 | ![#FFD564](https://via.placeholder.com/10/bae67e?text=+) `#FFD564` | Addition highlights                        |
-| ![#E85D72](https://via.placeholder.com/10/ef6b73?text=+) `#ef6b73` | Deletion highlights, errors, warnings      |
-| ![#5ccfe6](https://via.placeholder.com/10/5ccfe6?text=+) `#5ccfe6` | Modified highlights                        |
+| ![#E85D72](https://via.placeholder.com/10/ef6b73?text=+) `#E85D72` | Deletion highlights, errors, warnings      |
+| ![#67d8e0](https://via.placeholder.com/10/5ccfe6?text=+) `#67d8e0` | Modified highlights                        |
 
 ## Theming Reference
 
