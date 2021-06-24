@@ -2,7 +2,7 @@
     "name": "komorebi-dark",
     "displayName": "KomoRebi Dark",
     "description": "A minimal dark theme for VS Code, Atom, Sublime Text and more!",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "HussainImam",
     "icon": "images/logo_Square.png",
     "repository": {
