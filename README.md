@@ -32,7 +32,7 @@ Read the [VSC Extension Quickstart Guide](https://github.com/ChubsB/KomoRebi-Dar
 | ![#FFD564](https://via.placeholder.com/10/ffd580?text=+) `#ffd580` | Functions, classes, object literal keys         |
 | ![#D99623](https://via.placeholder.com/10/ffae57?text=+) `#ffae57` | Constants, operators                            |
 | ![#BDE86B](https://via.placeholder.com/10/bae67e?text=+) `#bae67e` | Strings, markdown headings                      |
-| ![#5ccfe6](https://via.placeholder.com/10/5ccfe6?text=+) `#5ccfe6` | Special keywords, classes, markdown code blocks |
+| ![#67d8e0](https://via.placeholder.com/10/5ccfe6?text=+) `#67d8e0` | Special keywords, classes, markdown code blocks |
 | ![#a2aabc](https://via.placeholder.com/10/a2aabc?text=+) `#a2aabc` | Variables, property names, tags                 |
 
 ### UI Colors
